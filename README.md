@@ -8,11 +8,7 @@ Software Engineering alumnus at Unicesumar. Flutter enthusiast with passion for 
 - 💬 I'm mostly active within the **Node.JS**, **Go**, **Kafka**, **Messaging Services**, **Kubernets**, **Microservices** and **React** communities
 
 ### 📬 Get in Touch
-
-- GitHub: [github](github.com/ropacz)
-- LinkedIn: [linkedin](linkedin.com/in/rodrigo-paczkovski)
-- Site: [site](rvski.com)
-- E-mail: paczweb@gmail.com
+- LinkedIn: [linkedin](https://linkedin.com/in/rodrigo-paczkovski)
 
 ### 📚 Looking for my Resume? E-Mail me!
 
