@@ -9,7 +9,3 @@ Software Engineering alumnus at Unicesumar. Flutter enthusiast with passion for 
 
 ### 📬 Get in Touch
 - LinkedIn: [linkedin](https://linkedin.com/in/rodrigo-paczkovski)
-
-### 📚 Looking for my Resume? E-Mail me!
-
-![Rodrigo Paczkovski github stats](https://github-readme-stats.vercel.app/api?username=ropacz&show_icons=true&hide_border=true)
