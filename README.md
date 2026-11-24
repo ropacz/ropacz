@@ -1,11 +1,7 @@
-# Hello, I'm Rodrigo Paczkovski 👋
+# Hi, I'm Rodrigo Paczkovski 👋
 
-Software Engineering alumnus at Unicesumar. Flutter enthusiast with passion for videogames, played or created alike.
+Software engineer, AI explorer, and indie builder.
 
-- 🔭 Bachelor's degree in **Software Engineering** at Unicesumar
-- ⚙️ Mastering: `.ts`, `.js`, `.dart`, `.go`, `.sh`, `.py`, `.yaml`
-- 👯 I’m looking to collaborate on **Open Source** and/or **Mobile** projects
-- 💬 I'm mostly active within the **Node.JS**, **Go**, **Kafka**, **Messaging Services**, **Kubernets**, **Microservices** and **React** communities
+By day I engineer distributed backend systems B.Sc. in Software Engineering from Unicesumar. By night I experiment with **AI architectures & agentic workflows**, build mobile apps, and make video games ✌️
 
-### 📬 Get in Touch
-- LinkedIn: [linkedin](https://linkedin.com/in/rodrigo-paczkovski)
+[LinkedIn](https://linkedin.com/in/rodrigo-paczkovski) 
